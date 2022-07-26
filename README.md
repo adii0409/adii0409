@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adii0409
-- 👀 I’m interested in Web Developer & Mobile App Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Full-Stack Web Design & Web Developer 
+- 🌱 I’m currently learning Bootstrap
 - 📫 How to reach me 22adisupriyadi@gmail.com
 
 <!---
