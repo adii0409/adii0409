@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adii0409
 - 👀 I’m interested in Web Developer 
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me 22adisupriyadi@gmail.com
 
 <!---
